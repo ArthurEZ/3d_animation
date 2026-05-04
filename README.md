@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/495704ef-412c-4019-82e0-d63d0aec17e0
+
 # Character Animator - 3D Character Animation Project
 
 A CMake-based OpenGL project showcasing an animated 3D character with real-time movement and animation controls.
