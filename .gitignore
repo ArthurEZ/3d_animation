@@ -1,0 +1,69 @@
+# Build directories
+build/
+cmake-build-debug/
+cmake-build-release/
+cmake-build-*/
+out/
+dist/
+
+mixamo/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+*.cmake
+CMakeLists.txt.user
+CMakeLists.txt.user.*
+
+# Compiled objects and libraries
+*.o
+*.a
+*.so
+*.dll
+*.dylib
+*.lib
+*.exe
+*.out
+*.app
+*.obj
+*.elf
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.code-workspace
+
+# IDE specific
+*.cbp
+*.layout
+*.depend
+*.d
+
+# OS specific
+Thumbs.db
+.DS_Store
+*.swp
+*~
+
+# Dependencies (CMake FetchContent)
+_deps/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Doxygen
+doxygen_sqlite3.db
+html/
+latex/
